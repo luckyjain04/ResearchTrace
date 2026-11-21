@@ -25,3 +25,20 @@ dist/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Node.js and frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python caches
+.mypy_cache/
+.ruff_cache/
