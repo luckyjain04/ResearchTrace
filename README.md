@@ -9,6 +9,7 @@
 [![API](https://img.shields.io/badge/Literature-NCBI%20PubMed-2b5c8f.svg)](https://pubmed.ncbi.nlm.nih.gov/)
 [![License](https://img.shields.io/badge/License-Academic-lightgrey.svg)]()
 
+![ResearchTrace Dashboard](screenshots/dashboard.png)
 
 **ResearchTrace** is an AI-powered scientific claim discovery and evidence exploration platform that helps users investigate scientific claims using curated benchmark annotations and biomedical research literature.
 
