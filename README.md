@@ -672,6 +672,23 @@ Explore literature and inferred topic relationships.
 7. **Evidence quality:** Proper scientific interpretation requires consideration of study design, sample size, dosage, population, bias, replication, and the strength of available evidence.
 
 ---
+## Application Screenshots
+
+### 1. Main Dashboard
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### 2. Knowledge Graph — Research Connections
+
+![Knowledge Graph](screenshots/knowledge_graph.png)
+
+### 3. Knowledge Graph — Alternative View
+
+![Knowledge Graph Alternative](screenshots/knowledge_graph1.png)
+
+### 4. Knowledge Graph — Additional Results
+
+![Knowledge Graph Additional Results](screenshots/knowledge_graph2.png)
 
 ## 👥 Authors & Acknowledgements
 
